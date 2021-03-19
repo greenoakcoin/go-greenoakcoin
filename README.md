@@ -1,4 +1,4 @@
-## Go GreenOakCoin
+## GreenOakCoin
 
 Official Golang implementation of the Ethereum protocol - ( GreenOakCoin ).
 
