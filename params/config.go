@@ -84,11 +84,11 @@ var (
 	MainnetCheckpointOracle = &CheckpointOracleConfig{
 		Address: common.HexToAddress("0x9a9070028361F7AAbeB3f2F2Dc07F82C4a98A02a"),
 		Signers: []common.Address{
-			common.HexToAddress("0x1b2C260efc720BE89101890E4Db589b44E950527"), // Norbi
-			common.HexToAddress("0x78d1aD571A1A09D60D9BBf25894b44e4C8859595"), // Martin
-			common.HexToAddress("0x286834935f4A8Cfb4FF4C77D5770C2775aE2b0E7"), // Daro
-			common.HexToAddress("0xb86e2B0Ab5A4B1373e40c51A7C712c70Ba2f9f8E"), // Anonym
-			common.HexToAddress("0x0DF8fa387C602AE62559cC4aFa4972A7045d6707"), // Anonym1
+			common.HexToAddress("0x69095C612ADE0eca96e838c613f810b4787243f2"), // Norbi
+			common.HexToAddress("0xB98C4E6db1b4129762f1fE2f12F3aF1bD330e034"), // Martin
+			common.HexToAddress("0xC0661b5615D84097ADbd71cF7DaFAB688a03B377"), // Daro
+			common.HexToAddress("0x98167Efa8Bc307Ce7eb2420931c9b7824De1e9AF"), // Anonym
+			common.HexToAddress("0xb7186eCf75399725F1620586405559a2BF42B4d8"), // Anonym1
 		},
 		Threshold: 2,
 	}
