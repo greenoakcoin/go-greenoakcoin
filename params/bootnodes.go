@@ -22,10 +22,10 @@ import "github.com/greenoakcoin/go-greenoakcoin/common"
 // the main GreenOakCoin network.
 var MainnetBootnodes = []string{
 	// GreenOakCoin Bootnodes
-	"enode://11eb96d3c754da7cd9dbc066ebf512674b6a3d7130a1a50b1b697e506298c80f6148fb5a1a537e4b9241ebb81460e3453beaea104a2f3c564d78c105132120be@159.89.7.26:30303",   // bootnode1.greenoakcoin.io
-	"enode://ac130202858be1e3ad6c21693e65bfc644f2d76b88f4d1b37d95b71377b16a703afcb43bb9ea8bc74f947210e90ce4074105464c7a2748522318f028b95b69a2@143.198.235.214:30303",   // bootnode2.greenoakcoin.io
-	"enode://1c054c3f3dfdd2dccc96f7528e425fb9188f9b486b5b69831559c9640cad08c728cb7a7172c9474052841b724341f9f858566db95d47c274f5937164c1a79fbc@178.128.27.46:30303",   // bootnode3.greenoakcoin.io
-        "enode://798e1a154f1f9fe07fde23d932e8555327d887f80a691b3f95f6e105b030f3d58eaddeda45e98b5ad9b1c3a997dbb5774331d30fa861434b33f96f8f14f49114@46.101.27.252:30303",   // rpc.greenoakcoin.io
+	"enode://dfcefed390dc9c2abbde4a56485c1dd60bb4747da1fceae5fd087f391a50cbc867bc2ab35cbf5161c5a08c770c188931fef365eb1e2a4ee81f216b3cbbeb4eb3@185.96.163.145:30303",  // bootnode1.greenoakcoin.io
+	"enode://a09ea6694496e6ce1d501a975ac5a1bd25be887446cae3d21811b7a0462dc7a86b0b353db903d91bff2198e299e65812eea95f0fb56ab7246b52d26c669cd022@85.90.246.69:30303",    // bootnode2.greenoakcoin.io
+	"enode://bf7eece7ff6d63440b4713e0f07ec8fc7a55736fb985aab6e91851b17a03ccc2416c642b9ecc17ff31e4c56e61e2a0665b03b5b4eeee2de926b3bf40e2801aef@167.179.84.34:30303",   // bootnode3.greenoakcoin.io
+        "enode://2543efebb4ea669e2fb2ee153d293706c406de9f8e29cf574eb5495bc37ae8794ebd4460ad05b1d3c9e438334a4d73577069e2168526d87c643edfb3e89efeaf@139.180.173.224:30303", // bootnode4.greenoakcoin.io
 }
 
 
